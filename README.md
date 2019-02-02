@@ -27,3 +27,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Hasil Web
+Tugas Quiz
+Score Akan Bertambah Ketika Jawaban Benar.
+Soal Terdiri Dari 3 Yang Dimasukkan Ke Array.
+
+Node_Modules tidak tersedia, jadi untuk menjalankan harus install komponennya terlebih dahulu.
